@@ -1,0 +1,27 @@
+.Title{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    background-color: bisque;
+    font-weight: bold;
+}
+.links{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    background-color: bisque;
+}
+.Step, .Ing, .Desc{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color:brown;
+    background-color: bisque;
+}
+.Desc{
+    font-size: x-large;
+}
+.text, .bullet{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color:black;
+}
